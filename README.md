@@ -24,3 +24,11 @@ The `daymarks.svg` wallpaper is original. Daymarks OS is an independent Ubuntu c
 
 See [FEATURES.md](FEATURES.md) for three local tools included for journaling.
 
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, VSCodium, GIMP**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
